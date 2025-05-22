@@ -8,8 +8,8 @@ namespace pokemon
         public Tipo Tipo { get; set; }
         public Ataque Ataque { get; set; }
 
-        // public void AprenderAtaque() { }
+        public void AprenderAtaque() { }
 
-        // public void RemoverAtaque() { }
+        public void RemoverAtaque() { }
     }
 }
